@@ -1,7 +1,7 @@
 token:
   expiration_time: 864000000
-  secret: user_token_application
+  secret: user_token_default
 
 gateway:
-  ip: 10.10.20.98
+  ip: 0.0.0.0
   

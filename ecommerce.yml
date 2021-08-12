@@ -3,5 +3,5 @@ token:
   secret: user_token
 
 gateway:
-  ip: 10.10.20.98
+  ip: 0.0.0.0
   
